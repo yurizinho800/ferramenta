@@ -1,5 +1,5 @@
-import descobrir
-import scanner
+from ferramentas import descobrir
+from ferramentas import scanner
 
 def menu():
 
