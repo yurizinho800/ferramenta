@@ -2,4 +2,4 @@
 
 monitorar a sua rede
          e
-quem esta utilizando         
+quem esta utilizando.       
