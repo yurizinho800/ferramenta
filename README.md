@@ -13,3 +13,7 @@ pkg install git
 
     
 git clone https://github.com/yurizinho800/ferramenta
+
+![YouTube](https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white)
+
+https://youtu.be/NPCi6ICYobo
