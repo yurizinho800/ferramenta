@@ -3,6 +3,13 @@
 
 para saber que dispositivos estão conectados a rede local 
 
+apt update
+
+apt upgrade
+
+pkg install python
+
+pkg install git
 
     
 git clone https://github.com/yurizinho800/ferramenta
